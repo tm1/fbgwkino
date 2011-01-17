@@ -1,3 +1,5 @@
 Project name : Firebird GateWay to Kino
 Purpose : gateway for repertoire and other info
 Status : Init
+
+Name for gateway database will be "fbgwkino.fdb"
